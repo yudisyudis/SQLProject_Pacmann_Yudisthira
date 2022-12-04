@@ -32,5 +32,5 @@ Objektif pada project kali ini ada 3 poin yaitu:
 # Link Medium
 https://medium.com/@vidconyudis/data-analysis-of-brazil-e-commerce-a780f37536e9
 
-#Link Youtube
+# Link Youtube
 https://youtu.be/izPUENvmwic
