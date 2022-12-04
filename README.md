@@ -29,5 +29,8 @@ Objektif pada project kali ini ada 3 poin yaitu:
 2. Mencari asal kota dari pembelian terbanyak untuk tiap tiap jenis produk
 3. Mencari korelasi lama proses transaksi dari order hingga barang diterima dengan skor yang diperoleh
 
-# Link MEDIUM
+# Link Medium
 https://medium.com/@vidconyudis/data-analysis-of-brazil-e-commerce-a780f37536e9
+
+#Link Youtube
+https://youtu.be/izPUENvmwic
